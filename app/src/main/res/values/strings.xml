@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ProfLocator</string>
+
+    <string name="branch_name">Choose your Branch</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="college">College</string>
+    <string name="qualifications">Qualifications</string>
+    <string name="year">Year</string>
+
+    <string-array name="year">
+        <item>Select Year</item>
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+    </string-array>
+
+    <string-array name="branch_name">
+        <item>Select branch</item>
+        <item>IT</item>
+        <item>CSE</item>
+        <item>CSSE</item>
+        <item>CSCE</item>
+        <item>Mechanical</item>
+        <item>Electrical</item>
+        <item>Electronics</item>
+        <item>Civil</item>
+        <item>ESE</item>
+        <item>ECE</item>
+        <item>Aeronautics</item>
+        <item>Mechatronics</item>
+    </string-array>
+
+    <string-array name="qualifications">
+        <item>Select Qualifications</item>
+        <item>Btech</item>
+        <item>MTech</item>
+        <item>PhD</item>
+        <item>Bsc</item>
+        <item>Msc</item>
+    </string-array>
+
+</resources>
