@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:651215545264:android:77bf8ccb24d11ea0646c75",
+        "mobilesdk_app_id": "1:651215545264:android:500aa072cd7ab99e646c75",
         "android_client_info": {
-          "package_name": "om.decodebros.proflocator"
+          "package_name": "com.decodebros.proflocator"
         }
       },
       "oauth_client": [
